@@ -1,5 +1,6 @@
 {
   "name": "git-ops",
+  "description": "Single-plugin marketplace for git-ops — everyday git workflow slash commands for Claude Code.",
   "owner": {
     "name": "hasnaties",
     "url": "https://github.com/hasnaties"
