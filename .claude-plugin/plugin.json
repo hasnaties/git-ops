@@ -1,0 +1,12 @@
+{
+  "name": "git-ops",
+  "description": "Everyday git workflow slash commands: commit, sync, ship-it, rebase. Bring your own per-project repo config — nothing personal is shipped.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hasnaties",
+    "url": "https://github.com/hasnaties"
+  },
+  "homepage": "https://github.com/hasnaties/git-ops",
+  "repository": "https://github.com/hasnaties/git-ops",
+  "keywords": ["git", "workflow", "commit", "rebase", "pull-request", "sync"]
+}

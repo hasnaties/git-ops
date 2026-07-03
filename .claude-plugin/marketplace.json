@@ -1,0 +1,14 @@
+{
+  "name": "git-ops",
+  "owner": {
+    "name": "hasnaties",
+    "url": "https://github.com/hasnaties"
+  },
+  "plugins": [
+    {
+      "name": "git-ops",
+      "source": ".",
+      "description": "Everyday git workflow slash commands: commit, sync, ship-it, rebase. Bring your own per-project repo config."
+    }
+  ]
+}
