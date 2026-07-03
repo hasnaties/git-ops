@@ -18,7 +18,7 @@ you on first use.
 
 ## Prerequisites
 
-- [Claude Code](https://docs.claude.com/en/docs/claude-code)
+- [Claude Code](https://code.claude.com/docs)
 - `git` installed and on your PATH
 
 ## Install
